@@ -1,0 +1,49 @@
+🔶 HANDS-ON PRACTICE, LINUX PROJECT 002: Implementing Directory Structures and File System Operations For MegaSolutions.
+🔶 FOCUS: Linux System Administration Basic Commands
+ "mkdir, rm, pwd, rm -r, ls /, ls -l, cd, cd ../, touch, nano, echo, cp, mv, cat, tail, head, *, 
+
+Hi Friends,
+As promised, to drop more hands-on practice Linux projects, my teammate Chinenye Obodo and I collaborated again to work on another real-world scenario project, to help us get acquainted and hone our skills with hashtag#Linux Basic Commands.
+ 
+Here is a breakdown of all the commands used in the project and their usefulness
+
+✴️ Directory Management
+✔️ mkdir -- Create a new directory.
+✔️ cd -- Change the current working directory
+✔️ cd ../ -- Move one level up in the directory structure.
+✔️ pwd -- Print the current working directory.
+✔️ ls / -- List files and directories in the root directory 
+✔️ ls -l -- List files and directories in long format, shows permissions, size, etc.
+
+✴️ File/Directory Deletion
+✔️ rm -- Remove a file.
+✔️ rm -r -- Recursively remove a directory and its contents.
+✔️ rmdir -- Remove an empty directory only.
+
+✴️ File Creation and Editing
+✔️ touch - Create an empty file.
+✔️ nano - Used to write and edit content
+✔️ echo - Print a message or write text to a file. 
+
+✴️ File and Directory Operations
+✔️ cp - Copy files or directories. 
+✔️ mv -- Move or rename files or directories.
+
+✴️ Viewing File Content
+✔️ cat -- Concatenate and display file content.
+✔️ head -- Display the first few lines of a file .
+✔️ tail -- Display the last few lines of a file.
+
+✴️ Objectives
+👉 Establish a standardized and logical directory hierarchy on the Linux servers to improve project file organization and accessibility for development teams.
+
+👉 Efficiently migrate existing project files into the new directory structure, minimizing disruption to ongoing development workflows.
+
+👉 Create new organizational files and directories as needed to support better project management and collaboration.
+
+👉 Ensure a consistent file system structure across different development teams to streamline navigation and resource sharing.
+
+👉 Optimize file access and management to enhance the overall efficiency of the development process on the Linux infrastructure.
+
+Sit tight and read through the project here: 
+https://lnkd.in/dphVtikn
